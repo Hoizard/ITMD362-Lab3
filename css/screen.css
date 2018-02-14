@@ -192,14 +192,15 @@ img, audio, video {
 */
 
 html {
-  font-size: 1.375em; /* 22px */
-  line-height: 1.182em; /* 26px / ~ 120% */
-  padding: 1.182em; /* 26px / ~ 120% */
+  font-size: 1em; /* 22px */
+  line-height: 1em; /* 26px / ~ 120% */
+  padding: 1em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
 
 body{
   font-family: "Gill Sans", sans-serif;
+  background-color: lightgray;
 }
 
 h1{
@@ -221,6 +222,14 @@ label {
 
 #input-age-verification{
   margin-top: 10px
+}
+
+@media screen and (min-width: 480px){
+  html{
+    font-size: 1.375em;
+    line-height: 1.182em;
+    padding: 1.182em;
+  }
 }
 
 /* ===== LAYOUT STYLES ====== */
