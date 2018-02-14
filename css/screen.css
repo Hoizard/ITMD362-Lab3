@@ -201,6 +201,8 @@ html {
 body{
   font-family: 'Roboto Condensed', 'Garamond', sans-serif;
   background-color: lightgray;
+  padding-left: 50px;
+  padding-right: 40px;
 }
 
 h1{
