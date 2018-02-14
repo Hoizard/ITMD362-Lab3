@@ -197,8 +197,13 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
+
 body{
   font-family: "Gill Sans", sans-serif;
+}
+
+h1{
+  font-family: "Goudy Bookletter 1911", sans-serif;
 }
 
 label {
@@ -210,4 +215,3 @@ label {
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
-
