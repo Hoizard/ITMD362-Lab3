@@ -197,6 +197,9 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
+body{
+  font-family: "Gill Sans", sans-serif;
+}
 
 label {
   display: block;
