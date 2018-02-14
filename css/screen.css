@@ -199,13 +199,12 @@ html {
 }
 
 body{
-  font-family: 'Gill Sans', 'Garamond', sans-serif;
+  font-family: 'Roboto Condensed', 'Garamond', sans-serif;
   background-color: lightgray;
 }
 
 h1{
   font-weight: bold;
-  font-family: "Goudy Bookletter 1911", sans-serif;
   margin-bottom: 1.375em;
 }
 
