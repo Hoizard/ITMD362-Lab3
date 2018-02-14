@@ -236,6 +236,10 @@ label {
     line-height: 1.182em;
     padding: 1.182em;
   }
+  body{
+    font-family: 'Roboto Condensed', 'Garamond', sans-serif;
+    background-color: lightgray;
+  }
   h1{
     margin-top: 10px;
     margin-bottom: 10px;
