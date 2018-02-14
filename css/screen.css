@@ -214,6 +214,9 @@ p{
   margin-bottom: 5px;
 }
 
+li{
+  margin-bottom: 1.182em;
+}
 label {
   display: block;
 }
